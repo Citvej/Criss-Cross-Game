@@ -1,0 +1,10 @@
+C:\Users\neven\source\repos\KrizecKrozec2\KrizecKrozec2\bin\Debug\KrizecKrozec2.exe.config
+C:\Users\neven\source\repos\KrizecKrozec2\KrizecKrozec2\bin\Debug\KrizecKrozec2.exe
+C:\Users\neven\source\repos\KrizecKrozec2\KrizecKrozec2\bin\Debug\KrizecKrozec2.pdb
+C:\Users\neven\source\repos\KrizecKrozec2\KrizecKrozec2\obj\Debug\KrizecKrozec2.csprojAssemblyReference.cache
+C:\Users\neven\source\repos\KrizecKrozec2\KrizecKrozec2\obj\Debug\KrizecKrozec2.Form1.resources
+C:\Users\neven\source\repos\KrizecKrozec2\KrizecKrozec2\obj\Debug\KrizecKrozec2.Properties.Resources.resources
+C:\Users\neven\source\repos\KrizecKrozec2\KrizecKrozec2\obj\Debug\KrizecKrozec2.csproj.GenerateResource.cache
+C:\Users\neven\source\repos\KrizecKrozec2\KrizecKrozec2\obj\Debug\KrizecKrozec2.csproj.CoreCompileInputs.cache
+C:\Users\neven\source\repos\KrizecKrozec2\KrizecKrozec2\obj\Debug\KrizecKrozec2.exe
+C:\Users\neven\source\repos\KrizecKrozec2\KrizecKrozec2\obj\Debug\KrizecKrozec2.pdb
